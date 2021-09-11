@@ -1,0 +1,8 @@
+C:\Users\Lenovo\documents\visual studio 2013\Projects\Graphs_1_0\ConsoleMaker\bin\Debug\ConsoleMaker.exe.config
+C:\Users\Lenovo\documents\visual studio 2013\Projects\Graphs_1_0\ConsoleMaker\bin\Debug\ConsoleMaker.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\Graphs_1_0\ConsoleMaker\bin\Debug\ConsoleMaker.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\Graphs_1_0\ConsoleMaker\bin\Debug\Graphs_1_0.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\Graphs_1_0\ConsoleMaker\bin\Debug\Graphs_1_0.pdb
+C:\Users\Lenovo\documents\visual studio 2013\Projects\Graphs_1_0\ConsoleMaker\obj\Debug\ConsoleMaker.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2013\Projects\Graphs_1_0\ConsoleMaker\obj\Debug\ConsoleMaker.exe
+C:\Users\Lenovo\documents\visual studio 2013\Projects\Graphs_1_0\ConsoleMaker\obj\Debug\ConsoleMaker.pdb
