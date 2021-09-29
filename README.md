@@ -1,5 +1,6 @@
-# GraphsConstructor
-Program system Graphs (v. 1.0.3.1) was built for the Software Design Patterns coursework in 2017 and designed for visual graphs' constructing and manipulating.
+# GraphsConstructor (English)
+## Abstract
+Program system Graphs (v. 1.0.3.1) was built for the Software Design Patterns coursework in 2017 and designed for visual graph constructing and manipulating.
 
 The operations, realised in it, are:
 - adding and deleting existing vertices,
@@ -8,8 +9,8 @@ The operations, realised in it, are:
 minimum fill-in,
 - loading from and saving final graph in binary file.
 
-#
-
+# GraphsConstructor (Русский)
+## Аннотация
 Программная система Graphs (v. 1.0.3.1) была построена для курсового проекта по шаблонам проектирования в 2017 году и предназначена для визуального конструирования и
 редактирования графов.
 
