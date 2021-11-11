@@ -17,7 +17,7 @@ the *Load* (Загрузить) button for loading graph from file. Right and be
 respectively (the edge is defined by the numbers of connected by it vertices); under the last ones drop-down list for choosing of the path calculation algorithm and 
 result output textbox are located; there is also an input textbox for start vertex number needed for some of algorithms at the beginning.
 
-By cursor during the mouse left button click, you can transpose the vertex to new position at the panel.
+During the mouse left button click, you can transpose by cursor the vertex to new position at the panel.
 
 ### Code
 
@@ -42,7 +42,7 @@ classes respectively (the *Singleton* pattern).
 
 Add the possibility to add/delete vertex or edge by the computer mouse, made changes reversible and repeatable (by the *Command* design pattern use).
 
-Alter the classes’ structure, add base class for generalized graph and edge definition to determinate different graph types such as multigraph, oriented or directed 
+Alter the classes’ structure, add base class for generalized graph and edge definition to determinate different graph types such as multigraph, weighted, oriented or directed 
 graph (digraph). Make a decision about *GraphElementFactory* class usefulness – it’s determined but not used in main program (with previous item we can introduce 
 *Abstract factory* and *Factory method* design patterns).
 
@@ -72,7 +72,7 @@ graph (digraph). Make a decision about *GraphElementFactory* class usefulness �
 
 В программной системе в виде класса (без наследования от базового) представлен простой граф (SimpleGraph), без весов и ориентации рёбер. В составе класса структура 
 графа отображена списками (листами) вершин и ребёр, также описанные как классы; в числе методов - добавление и удаление вершины, добавление и удаление ребра,
-вычисление степеней вершин, составление матриц смежности, расстояний и инцидентности.
+определение степеней вершин, составление матриц смежности, расстояний и инцидентности.
 
 Класс "вершина" (Vertex) содержит координаты центра отображения на панели окна, значение степени и порядкового номера в графе; в функции Draw задана отрисовка по 
 умолчанию - в виде кружка радиусом 20 пикселей. В классе "ребро" (Edge) включены номера соединяемых вершин; поле *i* для хранения *меньшего* номера, *j* - *большего*, 
